@@ -13,3 +13,12 @@ example git repository page
 -changes to this example also made for git Commit
 
 -further changes
+-changes to this example also made for git Commit
+
+-further changes
+-changes to this example also made for git Commit
+
+-further changes
+-changes to this example also made for git Commit
+
+-further changes
