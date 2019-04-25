@@ -1,2 +1,4 @@
 2
 example git repository page
+
+--line of changes in example2
