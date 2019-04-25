@@ -6,3 +6,5 @@ example git repository page
 -further changes
 
 -further changes to example 1, line 8
+
+-further changes to example 1, line 10
