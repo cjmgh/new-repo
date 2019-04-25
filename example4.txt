@@ -1,4 +1,6 @@
 4
 example git repository page
 
-changes to this example also made for git Commit
+-changes to this example also made for git Commit
+
+-further changes
