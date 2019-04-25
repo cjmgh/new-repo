@@ -4,5 +4,3 @@ example git repository page
 -line of changes in example2
 
 -further changes
-
--new change
