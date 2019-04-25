@@ -4,3 +4,5 @@ example git repository page
 -line of changes in example2
 
 -further changes
+
+-change on newbranch
