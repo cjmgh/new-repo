@@ -7,3 +7,4 @@ example git repository page
 
 -change on newbranch
 
+-newbranch change
