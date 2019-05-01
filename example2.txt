@@ -5,6 +5,6 @@ example git repository page
 
 -further changes
 
--change on newbranch
+-anotherbranch change
 
--newbranch change
+-anotherbranch change 2

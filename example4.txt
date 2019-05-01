@@ -20,5 +20,3 @@ example git repository page
 
 -further changes
 -changes to this example also made for git Commit
-
--further changes
